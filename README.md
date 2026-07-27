@@ -6,6 +6,10 @@
   - VisCHI Workshop, CHI 2026
   - [PDF](./VisCHI_2026.pdf)
 
+- **The Theseus Protocol: Detecting Identity Drift in Human-AI Creative Interaction** 
+  - Character Computing (C2) Workshop, PAAMs 2026
+  - [PDF](./PAAMS26_paper_5560.pdf)
+
 - **Authored Alignment: Toward AI Systems That Serve the Self You Are Becoming**
-  - Under review, HHAI 2026
+  - Accepted (Not Published), HHAI 2026
   - [PDF](./HHAI_2026.pdf)
