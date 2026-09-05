@@ -8,7 +8,7 @@
 
 - **The Theseus Protocol: Detecting Identity Drift in Human-AI Creative Interaction** 
   - Character Computing (C2) Workshop, PAAMs 2026
-  - [PDF](./PAAMS26_paper_5560.pdf)
+  - [PDF](./PAAMS_paper_Camera_ready.pdf)
 
 - **Authored Alignment: Toward AI Systems That Serve the Self You Are Becoming**
   - Accepted (Not Published), HHAI 2026
